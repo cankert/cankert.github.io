@@ -7,10 +7,10 @@
     <atom:link href="cankert.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Mein Testbeitrag</title>
+        <title>Mein Testbeitrag 1</title>
         <description>&lt;p&gt;Ein Testbeitrag mit wenig Text. &lt;a href=&quot;/Hello-World/&quot;&gt;Name of Link&lt;/a&gt; wadawdawdad&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/config.png&quot; alt=&quot;Mein Bild&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Liste aller Beiträge:&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Aug 2015 00:00:00 +0200</pubDate>
         <link>cankert.github.io/Test-Beitrag/</link>

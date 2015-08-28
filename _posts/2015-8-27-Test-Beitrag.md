@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Mein Testbeitrag
+title: Mein Testbeitrag 1
 ---
 
 Ein Testbeitrag mit wenig Text. [Name of Link]({% post_url 2014-3-3-Hello-World %}) wadawdawdad
 
-{% for image in site.images %}
-HELLO
-{% endfor %}
+Liste aller Beiträge:
 
-![Mein Bild]({{ site.baseurl }}/images/config.png)

@@ -15,3 +15,10 @@ layout: default
 
   {% include disqus.html %}
 </article>
+
+<div class="related">
+    <p >related content:</p>
+    {% for post in site.related_posts %}
+    <a href="{{post.url}}">{{post.title}}</a>
+    {% endfor %}
+</div>
